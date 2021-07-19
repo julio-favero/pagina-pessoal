@@ -1,5 +1,4 @@
-# pagina-pessoal
-Projeto de página pessoal estilo CV
+# Página profissional
 
 # Link
 https://julio-favero.github.io/pagina-pessoal/
